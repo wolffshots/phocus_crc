@@ -1,4 +1,4 @@
-package crc
+package phocus_crc
 
 import (
 	"github.com/stretchr/testify/assert"

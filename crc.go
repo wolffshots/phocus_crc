@@ -1,6 +1,6 @@
-// Package crc contains all the dependencies and functions
+// Package phocus_crc contains all the dependencies and functions
 // for calculating and verifying checksums.
-package crc
+package phocus_crc
 
 import (
 	"github.com/sigurn/crc16" // 16 bit checksum generation
